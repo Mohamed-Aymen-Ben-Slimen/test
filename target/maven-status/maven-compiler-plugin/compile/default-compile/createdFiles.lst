@@ -1,0 +1,10 @@
+com\warehouse\WarehouseApplication.class
+com\warehouse\representation\CategoryInfo.class
+com\warehouse\WarehouseApplication$1.class
+com\warehouse\resources\WidgetResource.class
+com\warehouse\dao\WidgetDAO.class
+com\warehouse\dto\WidgetDTO.class
+com\warehouse\WarehouseConfiguration.class
+com\warehouse\WarehouseApplication$2.class
+com\warehouse\dto\WidgetMapper.class
+com\warehouse\entity\Widget.class
